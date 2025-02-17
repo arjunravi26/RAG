@@ -1,0 +1,9 @@
+langchain
+langchain_community
+llama-cpp-python
+datasets
+pinecone-client
+tiktoken
+huggingface_hub
+gpt4all
+langchain-pinecone
