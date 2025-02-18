@@ -7,3 +7,12 @@ tiktoken
 huggingface_hub
 gpt4all
 langchain-pinecone
+streamlit
+sentence-transformers
+ipykernel
+langchain_huggingface
+langchain-pinecone
+snorkel
+spacy
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#egg=en_core_web_sm==3.0.0
+transformers
